@@ -1,0 +1,57 @@
+body {
+	background-color: green;
+    font-family: 'Quicksand', sans-serif;
+    text-align: center;
+}
+.navbar{
+	display: flex;
+    justify-content: center;
+}
+
+img {
+    width: 400px;
+}
+.aboutMeImg {
+    width: 130px;
+    border: 1px black solid;
+}
+
+.friendsImg {
+    width: 100px;
+    border: 1px black solid;
+}
+
+.headerText {
+    font-family: 'Anton', sans-serif;
+}
+
+.navItem,
+.headerItem {
+    background-color: #90e0df;
+    border: 1px solid black;
+    margin: 10px;
+    padding: 2px;
+    text-align: center;
+}
+
+.border {
+    border: 1.5px solid black;
+    padding: 5px;
+    margin: 5px;
+}
+
+.aboutMe,
+.friends {
+    width: 400px;
+    background-color: white;
+}
+
+.wall {
+    width: 500px;
+    background-color: white;
+}
+
+.main {
+    display: flex;
+    justify-content: center;
+}
